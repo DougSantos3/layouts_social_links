@@ -1,3 +1,10 @@
+# ...Building
+
+<br>
+<br>
+<br>
+<br>
+
 <h1 align="center">Layout with dark mode and light mode</h1>
 <br />
 
@@ -20,7 +27,9 @@ npm install
 ```
 
 # Light mode
+
 ![alt text](assets/light.png)
 
-# Dark mode 
+# Dark mode
+
 ![alt text](assets/dark.png)
