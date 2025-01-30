@@ -19,7 +19,7 @@ npm install
 
 ### Link para acesso web
 
-`https://dougsantos3.github.io/layouts_social_links/`
+https://dougsantos3.github.io/layouts_social_links/
 
 # Light mode
 
